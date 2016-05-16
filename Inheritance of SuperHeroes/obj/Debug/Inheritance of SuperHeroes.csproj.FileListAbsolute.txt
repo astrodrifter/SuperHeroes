@@ -10,3 +10,9 @@
 \\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.csprojResolveAssemblyReference.cache
 \\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe
 \\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\CAB201 2016\Projects\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.pdb
+C:\Users\Student\Documents\GitHub\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe.config
+C:\Users\Student\Documents\GitHub\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.exe
+C:\Users\Student\Documents\GitHub\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.pdb
+C:\Users\Student\Documents\GitHub\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.exe
+C:\Users\Student\Documents\GitHub\SuperHeroes\Inheritance of SuperHeroes\bin\Debug\Inheritance of SuperHeroes.pdb
+C:\Users\Student\Documents\GitHub\SuperHeroes\Inheritance of SuperHeroes\obj\Debug\Inheritance of SuperHeroes.csprojResolveAssemblyReference.cache

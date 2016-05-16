@@ -24,11 +24,11 @@ namespace Inheritance_of_SuperHeroes {
 
         static void Main(string[] args) {
 
- //           TestHumans();
+            TestHumans();
 
- //           TestEnhancedHumans();
+            //           TestEnhancedHumans();
 
- //           TestSuperHumans();
+            //           TestSuperHumans();
 
             Console.Write("\n\n\nPress any key to exit ...");
             Console.ReadKey();
@@ -45,7 +45,7 @@ namespace Inheritance_of_SuperHeroes {
          */
 
 
-        /*        static void TestHumans() {
+                static void TestHumans() {
 
                     Human Batman = new Human("Bruce Wayne", "Batman");
                     Human BlackCanary = new Human(" Dinah Drake", "Black Canary");
@@ -70,7 +70,7 @@ namespace Inheritance_of_SuperHeroes {
                                           BlackCanary.TotalPower());
 
                 }//end TestHumans
-        */
+        
 
 
         /*        static void TestEnhancedHumans() {
